@@ -1,0 +1,92 @@
+{
+  "item": {
+    "id": "com.kjsjksjsjaiwjjw.wristdisk",
+    "restype": "quick_app",
+    "name": "腕上云盘",
+    "description": "腕上云盘——专为智能手表打造的随身网盘，化繁为简。手机与电脑​\n网页一键上传，手表抬腕即时查看。支持图片高清全屏预览、文本多编码分页畅阅读，以及多种常用格式在线即时查阅；更多支持将重要文件下载至手表本地，无网也可以随时随地离线查看。手表端支持手机扫码秒级登录，告别繁琐输入；最终消耗废物黑底极简设计，操作丝滑不卡顿。精致外形，大有乾坤，就是你手腕上又可靠的文件交易库。\nQQ交流群:2167076197",
+    "preview": [
+      "media/watch_20261116_103305.png",
+      "media/watch_20261116_103241.png",
+      "media/watch_20261116_103232.png",
+      "media/watch_20261116_103229.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/wristdisk_cover_v3_blue_1200x800.png",
+    "author": [
+      {
+        "name": "xuFrancisco",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://cloudband.store/",
+      "icon": "globe"
+    },
+    {
+      "title": "安卓端下载",
+      "url": "https://cloudband.store/apps/wristdisk",
+      "icon": "download"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmrw5xring": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmrw6": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmws4": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmws441": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmws4xring": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmb10p": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmws3": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmb9p": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmws541": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    },
+    "xmws5": {
+      "version": "1.2.13",
+      "file_name": "downloads/wristdisk-watch-1.2.13.rpk",
+      "versionCode": 17
+    }
+  },
+  "ext": {}
+}
